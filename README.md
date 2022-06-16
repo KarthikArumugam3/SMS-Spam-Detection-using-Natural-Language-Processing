@@ -67,6 +67,7 @@ pd.DataFrame(data=simple_train_dtm.toarray(), columns=vect.get_feature_names())
 ```
 O/P:-
 |  | calling | good  | guy | is  | karthik |  this  | you|
+|--- | --- | --- | --- |--- |--- |--- |--- |
 |0|0|0|0|1|1|1|0|
 |1|1|0|0|1|1|0|1|
 |2|0|1|1|1|1|0|0|
